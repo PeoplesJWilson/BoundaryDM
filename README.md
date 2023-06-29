@@ -12,4 +12,4 @@ When the manifold has a boundary, the Diffusion Maps algorithm only captures som
 
 ![transparent_truncation](transparent_truncation.png)
 
-TGL is an alteration on Diffusion Maps which captures the missing structure. For a brief introduction on using the classes contained in this project, see tutorial.ipynb. Detailed comments found in BoundaryDM.py can assist you further.
+The magenta points above are those data points "near the boundary," which are an important part of the TGL algorithm. TGL is an alteration on Diffusion Maps which captures some of the structure that Diffusion Maps misses for manifolds with boundary. For a brief introduction on using the classes contained in this project, see tutorial.ipynb. Detailed comments found in BoundaryDM.py can assist you further.
