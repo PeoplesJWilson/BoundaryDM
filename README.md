@@ -1,6 +1,6 @@
 # BoundaryDM: sklearn style library for manifold learning on manifolds with boundary
 
-This readme is primarily meant to direct you to tutortial.ipynb, where you can find instructions on how to use this manifold learning library locally.
+This readme is primarily meant to direct you to __tutorial.ipynb__, where you can find instructions on how to use this manifold learning library locally.
 
 In short, all you need to do is clone this repo, and run `pip install -r requirements.txt` from the command line. The libraries required to use this code are numpy, scipy, and matplotlib, all of which can be installed with pip.
 
